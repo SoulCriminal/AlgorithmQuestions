@@ -1,0 +1,15 @@
+/Users/hakkiayman/Desktop/VisualStudioCode/AlgorithmQuestions/bin/Debug/net5.0/AlgorithmQuestions.deps.json
+/Users/hakkiayman/Desktop/VisualStudioCode/AlgorithmQuestions/bin/Debug/net5.0/AlgorithmQuestions.runtimeconfig.json
+/Users/hakkiayman/Desktop/VisualStudioCode/AlgorithmQuestions/bin/Debug/net5.0/AlgorithmQuestions.runtimeconfig.dev.json
+/Users/hakkiayman/Desktop/VisualStudioCode/AlgorithmQuestions/bin/Debug/net5.0/AlgorithmQuestions.dll
+/Users/hakkiayman/Desktop/VisualStudioCode/AlgorithmQuestions/bin/Debug/net5.0/ref/AlgorithmQuestions.dll
+/Users/hakkiayman/Desktop/VisualStudioCode/AlgorithmQuestions/bin/Debug/net5.0/AlgorithmQuestions.pdb
+/Users/hakkiayman/Desktop/VisualStudioCode/AlgorithmQuestions/obj/Debug/net5.0/AlgorithmQuestions.csproj.AssemblyReference.cache
+/Users/hakkiayman/Desktop/VisualStudioCode/AlgorithmQuestions/obj/Debug/net5.0/AlgorithmQuestions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakkiayman/Desktop/VisualStudioCode/AlgorithmQuestions/obj/Debug/net5.0/AlgorithmQuestions.AssemblyInfoInputs.cache
+/Users/hakkiayman/Desktop/VisualStudioCode/AlgorithmQuestions/obj/Debug/net5.0/AlgorithmQuestions.AssemblyInfo.cs
+/Users/hakkiayman/Desktop/VisualStudioCode/AlgorithmQuestions/obj/Debug/net5.0/AlgorithmQuestions.csproj.CoreCompileInputs.cache
+/Users/hakkiayman/Desktop/VisualStudioCode/AlgorithmQuestions/obj/Debug/net5.0/AlgorithmQuestions.dll
+/Users/hakkiayman/Desktop/VisualStudioCode/AlgorithmQuestions/obj/Debug/net5.0/ref/AlgorithmQuestions.dll
+/Users/hakkiayman/Desktop/VisualStudioCode/AlgorithmQuestions/obj/Debug/net5.0/AlgorithmQuestions.pdb
+/Users/hakkiayman/Desktop/VisualStudioCode/AlgorithmQuestions/obj/Debug/net5.0/AlgorithmQuestions.genruntimeconfig.cache
